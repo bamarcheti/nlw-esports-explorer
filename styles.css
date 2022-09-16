@@ -128,6 +128,7 @@ main section:nth-child(2) {
 main section:nth-child(3) {
     animation-delay: .8s;
 }
+
 @keyframes fromTop {
     from {
         opacity: 0;
