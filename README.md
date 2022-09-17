@@ -1,18 +1,22 @@
-# NLW eSports
+# __NLW eSports__
 
 ![preview](./.github/preview.png)
 
-> Trilha Explorer
+> *Trilha Explorer*
 
 Projeto construído do evento Next Level Week da RocketSeat.
 
 [🔗 Clique aqui para acessar](https://bamarcheti.github.io/nlw-esports-explorer/)
 
-## 🛠 Tecnologias
+## __🛠 Tecnologias__
 - HTML
 - CSS
 - Git e GitHub
 
-## 💛 Contato
+## __💛 Contato__
 
-bmarchetifiorin@gmail.com
+> **_Gmail
+bmarchetifiorin@gmail.com_**
+
+> **_Instagram
+https://www.instagram.com/ba_marcheti/_**
